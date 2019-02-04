@@ -208,6 +208,3 @@ BOT.run :async
 BOT.dnd
 BOT.profile.name = 'conexus'
 BOT.sync
-
-// MUST BE USED
-client.login(process.env.BOT_TOKEN);
